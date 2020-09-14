@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Test Threat Model",
+    "owner": "imander",
+    "description": "This thing does some stuff"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Level 0",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
